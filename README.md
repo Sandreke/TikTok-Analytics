@@ -4,6 +4,8 @@
 🕒 The best hour to post on [TikTok ♪](https://www.tiktok.com/) based on data!
 
 
+## 🤔 Context
+
 [Various sources](https://www.shopify.com/blog/best-time-to-post-on-tikok#:~:text=According%20to%20a%20study%20by,and%20Friday%20at%205%20a.m.) suggest certain hours, but it doesn't have to work for everyone. Each audience is unique, so a customized solution is necessary for each content creator
 
 [TikTok](https://www.tiktok.com/) algorithm works based on many factors, but one very important in boosting your content is that your followers interact as much as possible in the first hours after posting
