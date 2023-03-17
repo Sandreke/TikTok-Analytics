@@ -14,7 +14,7 @@ But... how many hours after posting? How to know when your followers are active 
 ## 📚 Input
 Therefore, using [data of my followers](https://github.com/Sandreke/TikTok-Analytics/blob/main/Data/Follower%20activity.xlsx) from [TikTok Analytics](https://www.tiktok.com/analytics?tab=Followers), I developed a [Python](https://www.python.org/) project that proposes my best hour to post based on the number of active followers within certain hours after posting using rolling sum.
 
-## 💡 Insights:
+## 💡 Insights
 
 1️⃣ If I prioritize the first 𝟯 𝗵𝗼𝘂𝗿𝘀 after posting, the best hour is 𝟮𝟭𝗵
 
