@@ -16,14 +16,13 @@ But... how many hours after posting? How to know when your followers are active 
 I find out these insights:
 
 1️⃣ If I prioritize the first 𝟯 𝗵𝗼𝘂𝗿𝘀 after posting, the best hour is 𝟮𝟭𝗵
-![TikTok Analytics](https://user-images.githubusercontent.com/64377961/225822007-e68ae9a1-5599-4ab3-860c-064b30c486bb.png)
+<img src="https://user-images.githubusercontent.com/64377961/225822007-e68ae9a1-5599-4ab3-860c-064b30c486bb.png" width="400">
 
 2️⃣ If I prioritize the first 𝟰 𝗵𝗼𝘂𝗿𝘀, the best hour is 𝟮𝟬𝗵
-![TikTok Analytics (1)](https://user-images.githubusercontent.com/64377961/225822111-db1e985f-16b2-40c0-b2b2-a404663fa61f.png)
+<img src="https://user-images.githubusercontent.com/64377961/225822111-db1e985f-16b2-40c0-b2b2-a404663fa61f.png" width="400">
 
 3️⃣ If I prioritize the first 𝟱 𝗵𝗼𝘂𝗿𝘀, the best hour is 𝟮𝟬𝗵
-![TikTok Analytics (2)](https://user-images.githubusercontent.com/64377961/225822154-2314fd3c-cda0-4260-adea-6946b7dd4395.png)
-
+<img src="https://user-images.githubusercontent.com/64377961/225822154-2314fd3c-cda0-4260-adea-6946b7dd4395.png" width="400">
 
 
 ☝️ In this way, I conclude that for [MY ACCOUNT](https://www.tiktok.com/@sandreke99) the best hour to post is between 𝟮𝟬𝗵 and 𝟮𝟭𝗵
