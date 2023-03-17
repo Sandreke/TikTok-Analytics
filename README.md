@@ -29,4 +29,4 @@ Therefore, using [data of my followers](https://github.com/Sandreke/TikTok-Analy
 
 
 ## ☝️ Conclusion
-In this way, I conclude that for [MY ACCOUNT](https://www.tiktok.com/@sandreke99) the best hour to post is between 𝟮𝟬𝗵 and 𝟮𝟭𝗵
+In this way, I conclude that for [my account](https://www.tiktok.com/@sandreke99) the best hour to post is between 𝟮𝟬𝗵 and 𝟮𝟭𝗵
