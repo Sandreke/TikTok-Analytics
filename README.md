@@ -1,6 +1,6 @@
 # TikTok-Analytics
 
-The best hour to post on [TikTok ♪](https://www.tiktok.com/) based on [data](https://www.tiktok.com/analytics?tab=Followers) with [Python](https://www.python.org/) 🐍!
+The best hour to post on [TikTok ♪](https://www.tiktok.com/) based on [follower data](https://www.tiktok.com/analytics?tab=Followers) with [Python](https://www.python.org/) 🐍!
 
 
 ## 🤔 Context
