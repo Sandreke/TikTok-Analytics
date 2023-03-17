@@ -1,7 +1,6 @@
 # TikTok-Analytics
 
-
-🕒 The best hour to post on [TikTok ♪](https://www.tiktok.com/) based on data!
+The best hour to post on [TikTok ♪](https://www.tiktok.com/) based on [data](https://www.tiktok.com/analytics?tab=Followers) with [Python](https://www.python.org/) 🐍!
 
 
 ## 🤔 Context
@@ -13,7 +12,7 @@
 But... how many hours after posting? How to know when your followers are active to interact?
 
 ## 📚 Input
-Therefore, using [data of my followers](https://github.com/Sandreke/TikTok-Analytics/blob/main/Data/Follower%20activity.xlsx) from [TikTok Analytics](https://www.tiktok.com/analytics?tab=Followers), I developed a [Python](https://www.python.org/) 🐍 project that proposes my best hour to post based on the number of active followers within certain hours after posting using rolling sum.
+Therefore, using [data of my followers](https://github.com/Sandreke/TikTok-Analytics/blob/main/Data/Follower%20activity.xlsx) from [TikTok Analytics](https://www.tiktok.com/analytics?tab=Followers), I developed a [Python](https://www.python.org/) project that proposes my best hour to post based on the number of active followers within certain hours after posting using rolling sum.
 
 ## 💡 Insights:
 
